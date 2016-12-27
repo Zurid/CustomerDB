@@ -1,0 +1,9 @@
+rem curl \
+rem --request GET \ 
+rem  http://localhost:8080/CustomerDB/webresources/entities.customer
+
+
+
+curl -i -H "Accept: application/json" "http://localhost:8080/CustomerDB/webresources/entities.customer" 
+
+rem curl -i -H "Accept: application/json" "server:5050/a/c/getName{"param0":"pradeep"}" 

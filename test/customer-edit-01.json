@@ -1,0 +1,45 @@
+[
+    {
+        "customerId": 7,
+        "name": {
+            "value": "Bond",
+            "newValue": "James Bond"
+        },
+        "updateStatus": "modified"
+    },
+    {
+        "customerId": 1,
+        "name": {
+            "value": "Isaac",
+            "newValue": "Isaac Newton"
+        },
+        "addressline1": "111 E. Las Olivas Blvd",
+        "addressline2": "Suite 51",
+        "city": "Fort Lauderdale",
+        "creditLimit": 100000,
+        "discountCode": {
+            "discountCode": "N"
+        },
+        "email": "jumboeagle@example.com",
+        "fax": "305-555-0189",
+        "phone": "305-555-0188",
+        "state": "FL",
+        "zip": {
+            "zipCode": "95117"
+        },
+        "updateStatus": "modified"
+    },
+    {
+        "name": {
+            "newValue": "New User 3"
+        },
+        "updateStatus": "new"
+    },
+    {
+        "customerId": 1,
+        "name": {
+            "value": "One"
+        },
+        "updateStatus": "deleted"
+    }
+]

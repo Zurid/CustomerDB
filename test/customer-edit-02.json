@@ -1,0 +1,23 @@
+[
+    {
+        "customerId": 1,
+        "name": {
+            "value": "Isaac",
+            "newValue": "Isaac Newton"
+        },
+        "addressline1": "111 E. Las Olivas Blvd",
+        "addressline2": "Suite 51",
+        "city": "Fort Lauderdale",
+        "creditLimit": 100000,
+        "email": "jumboeagle@example.com",
+        "fax": "305-555-0189",
+        "phone": "305-555-0188",
+        "state": "FL",
+
+            "discountCode": "N",
+	    "zip": "95117",
+
+
+        "updateStatus": "modified"
+    }
+]

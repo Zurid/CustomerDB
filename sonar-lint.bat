@@ -1,0 +1,1 @@
+call C:\mybins\sonarlint-cli-2.0\bin\sonarlint.bat --src "src/**" --tests "src/test/**"

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Isaac Newton",
+        "type": "customer",
+        "addressline1": "111 E. Las Olivas Blvd",
+        "addressline2": "Suite 51",
+        "city": "Fort Lauderdale",
+        "creditLimit": 100000,
+        "customerId": 1,
+        "discountCode": {
+            "discountCode": "N",
+            "rate": 0.00
+        },
+        "email": "jumboeagle@example.com",
+        "fax": "305-555-0189",
+        "phone": "305-555-0188",
+        "state": "FL",
+        "zip": {
+            "areaLength": 547.967,
+            "areaWidth": 468.858,
+            "radius": 755.778,
+            "zipCode": "95117"
+        }
+    },
+    {
+        "type": "customer",
+        "addressline1": "111 E. Las Olivas Blvd",
+        "addressline2": "Suite 51",
+        "city": "Fort Lauderdale",
+        "creditLimit": 100000,
+        "customerId": 1,
+        "discountCode": {
+            "discountCode": "N",
+            "rate": 0.00
+        },
+        "email": "jumboeagle@example.com",
+        "fax": "305-555-0189",
+        "phone": "305-555-0188",
+        "state": "FL",
+        "zip": {
+            "areaLength": 547.967,
+            "areaWidth": 468.858,
+            "radius": 755.778,
+            "zipCode": "95117"
+        }
+    }
+]

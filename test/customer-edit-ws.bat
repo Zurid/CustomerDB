@@ -1,0 +1,1 @@
+curl -i -X PUT -H "Content-Type: application/json" -H "Accept: application/json" "http://localhost:8080/CustomerDB/webresources/entities.customer" --data @customer-edit.json
